@@ -14,3 +14,4 @@ jobs:
           exempt-issue-labels: 'question,bug,enhancement'
           days-before-stale: 30
           days-before-close: 7
+
